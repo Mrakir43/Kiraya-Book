@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rental Manager</string>
+    
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    
+    <!-- Navigation -->
+    <string name="dashboard">Dashboard</string>
+    <string name="tenants">Tenants</string>
+    <string name="payments">Payments</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="documents">Documents</string>
+    <string name="analytics">Analytics</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Tenant Management -->
+    <string name="add_tenant">Add Tenant</string>
+    <string name="edit_tenant">Edit Tenant</string>
+    <string name="tenant_details">Tenant Details</string>
+    <string name="active_tenants">Active Tenants</string>
+    <string name="lease_expires">Lease Expires</string>
+    
+    <!-- Payment Management -->
+    <string name="add_payment">Add Payment</string>
+    <string name="payment_history">Payment History</string>
+    <string name="pending_payments">Pending Payments</string>
+    <string name="overdue_payments">Overdue Payments</string>
+    <string name="monthly_rent">Monthly Rent</string>
+    
+    <!-- Maintenance -->
+    <string name="maintenance_requests">Maintenance Requests</string>
+    <string name="add_maintenance_request">Add Maintenance Request</string>
+    <string name="emergency_priority">Emergency</string>
+    <string name="high_priority">High Priority</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+</resources>
